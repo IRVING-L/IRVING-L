@@ -33,7 +33,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IRVING-L&repo=PackageTemplate&show_owner=true)](https://github.com/IRVING-L/Algorithm4thCpp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IRVING-L&repo=PackageTemplate&show_owner=true)](https://github.com/IRVING-L/Algorithm_fromBilibili)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IRVING-L&repo=PackageTemplate&show_owner=true)](https://github.com/IRVING-L/Algorithm4th-Cpp)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
