@@ -16,8 +16,6 @@
 > Mechanical Enginering Student at [Xi·an JiaoTong University](http://www.xjtu.edu.cn/)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
-
 <div>
  <p>
 I am a programming enthusiast, from Xi'an Jiaotong University, and now I am a graduate student in the school of mechanical engineering. I will share my own programming learning experience on my GitHub, not limited to program design and documentation. My goal is to enter Tencent in 2023 to become a programmer and carry out software development.
