@@ -25,12 +25,12 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 ### Programming Languages 🌐
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="C++" width="38">](https://php.net/) |
+|  [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/1200px-ISO_C%20%20_Logo.svg.png" alt="C++" width="38">](https://php.net/) |
 |---|
  
 ### Tools 🛠️
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)   |
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |   [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/Visual-Studio-Logo.png" alt="VS" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)   |
 |---|---|---|
 ### 📊 Weekly development breakdown
 
