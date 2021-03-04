@@ -38,10 +38,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
 
-</p>
 
 
 ⭐️ From [@IRVING-L](https://github.com/IRVING-L)
