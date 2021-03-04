@@ -11,9 +11,9 @@
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am a programming enthusiast, from Xi'an Jiaotong University, and now I am a graduate student in the school of mechanical engineering. I will share my own programming learning experience on my GitHub, not limited to program design and documentation. My goal is to enter Tencent in 2023 to become a programmer and carry out software development.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+If you are also a programming enthusiast and feel confused about your own learning, follow me, I will study with you and make progress together!
 </p>
 </div>
 
