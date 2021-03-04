@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm IRVING-L
-> Mechanical Enginering Student at [Xi`an JiaoTong University](shttp://www.xjtu.edu.cn/)
+> Mechanical Enginering Student at [Xi·an JiaoTong University](http://www.xjtu.edu.cn/)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
