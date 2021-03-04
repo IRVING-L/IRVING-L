@@ -12,7 +12,7 @@
  
  </p>
 
-> Mechanical Enginering Student at [Xi·an JiaoTong University](http://www.xjtu.edu.cn/)
+> Mechanical Enginering Student at [XJTU](http://www.xjtu.edu.cn/)
 
 
 <div>
