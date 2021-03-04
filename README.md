@@ -46,10 +46,7 @@ No Activity tracked this Week
 
 [![IRVING-L GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRVING-L&show_icons=true&count_private=true)](https://github.com/IRVING-L)
 
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IRVING-L&repo=PackageTemplate&show_owner=true)](https://github.com/IRVING-L/Algorithm_fromBilibili)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IRVING-L&repo=PackageTemplate&show_owner=true)](https://github.com/IRVING-L/Algorithm4th-Cpp)
 
 <h3> 🤝🏻 Connect with Me </h3>  
 
