@@ -50,7 +50,7 @@ No Activity tracked this Week
 
 - 💬 Ask me about anything.  
 
-- <a href="junlee_sky@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-Click-red"/></a> 
+- <a href="mailto:junlee_sky@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-Click-red"/></a> 
 - <a href = "https://blog.csdn.net/qq_42518941?spm=1001.2101.3001.5343"><img src="https://img.shields.io/badge/CSDN-Click-green"/></a>
 
 
