@@ -19,7 +19,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 ### Programming Languages 🌐
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/) |
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="C++" width="38">](https://php.net/) |
 |---|
  
 ### Tools 🛠️
