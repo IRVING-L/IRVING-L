@@ -30,8 +30,8 @@ If you are also a programming enthusiast and feel confused about your own learni
  
 ### Tools 🛠️
 
-| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/Visual-Studio-Logo.png" alt="VS" width="38">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="38">](https://git-scm.com/) |    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="38">](https://ubuntu.com/)   |
-|---|---|---|
+| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/Visual-Studio-Logo.png" alt="VS" width="38">](https://code.visualstudio.com/) | 
+|---|
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
