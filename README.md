@@ -6,10 +6,11 @@
 ## Hi there 👋🤓
  <p>
   <img src="http://views.whatilearened.today/views/github/MartinYan623/views.svg"/>
-  <a href="https://github.com/MartinYan623/"><img src="https://img.shields.io/github/followers/MartinYan623?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <a href="https://github.com/IRVING-L/"><img src="https://img.shields.io/github/followers/IRVING-L?label=GitHub%20Follow&style=social"/></a>
   <a href="https://github.com/MartinYan623/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <a href="mailto:e0210398@u.nus.edu"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
   <img src="https://wakatime.com/badge/github/MartinYan623/My-Blog.svg"/>
+ 
  </p>
 
 > Mechanical Enginering Student at [Xi·an JiaoTong University](http://www.xjtu.edu.cn/)
