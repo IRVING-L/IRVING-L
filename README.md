@@ -36,7 +36,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++   50 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
