@@ -5,7 +5,7 @@
 
 ## Hi there 👋🤓
  <p>
-  <img src="https://img.shields.io/github/watchers/IRVING-L/IRVING-L?label=ProfileViews&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=IRVING-L"/>
   <a href="https://github.com/IRVING-L/"><img src="https://img.shields.io/github/followers/IRVING-L?label=GitHub%20Follow&style=flat-square"/></a>
   <a href="https://github.com/MartinYan623/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <a href="mailto:e0210398@u.nus.edu"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
