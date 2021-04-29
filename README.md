@@ -37,7 +37,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-Other   42 mins         ████████████████████████░   96.57 % 
+
 ```
 <!--END_SECTION:waka-->
   
