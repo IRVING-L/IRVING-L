@@ -37,10 +37,10 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-C             5 hrs 15 mins   ████████████████░░░░░░░░░   63.72 % 
-C++           2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Objective-C   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+C             5 hrs 20 mins   ████████████████░░░░░░░░░   64.06 % 
+C++           2 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 % 
+Objective-C   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
   
