@@ -26,12 +26,12 @@ If you are also a programming enthusiast and feel confused about your own learni
 ### Programming Languages 🌐
 
 |  [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/1200px-ISO_C%20%20_Logo.svg.png" alt="C++" width="38">](https://cppreference.com/) |
-|  [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/c.jfif" alt="C" width="38">](https://cppreference.com/)|
+|  [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/c.png" alt="C" width="38">](https://cppreference.com/)|
  
 ### Tools 🛠️
 
 | [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/Visual-Studio-Logo.png" alt="VS" width="38">](https://code.visualstudio.com/) | 
-| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/vscode.jfif" alt="VS" width="38">](https://code.visualstudio.com/) |  
+| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/vscode.png" alt="VS" width="38">](https://code.visualstudio.com/) |  
 
 ### 📊 Weekly development breakdown
 
