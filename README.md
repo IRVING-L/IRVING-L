@@ -26,7 +26,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 ### Programming Languages 🌐
 
 |  [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/1200px-ISO_C%20%20_Logo.svg.png" alt="C++" width="38">](https://cppreference.com/) |
-|---|
+|[<img src = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fask.qcloudimg.com%2Farticle-cover-image%2F1192057%2Frz3leabjc3.jpeg&refer=http%3A%2F%2Fask.qcloudimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647338922&t=c87f1e5982d2f8f9e683f6baf4964165" alt = "vscode" width = "38">](https://www.baidu.com/)|
  
 ### Tools 🛠️
 
