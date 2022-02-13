@@ -30,7 +30,7 @@ If you are also a programming enthusiast and feel confused about your own learni
  
 ### Tools 🛠️
 
-| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/vscode.png" alt="VS" width="22">](https://code.visualstudio.com/) |  
+| [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/vscode.png" alt="VS" width="38">](https://code.visualstudio.com/) |
 | [<img src="https://gitee.com/ljunsang/DataStruct_fromBilibili/raw/main/img/Visual-Studio-Logo.png" alt="VS" width="38">](https://code.visualstudio.com/) | 
 
 ### 📊 Weekly development breakdown
