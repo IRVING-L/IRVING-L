@@ -37,7 +37,7 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   51 mins         ████████████████████████▓   98.98 % 
+Markdown   1 hr 12 mins    ████████████████████████▓   99.27 % 
 ```
 <!--END_SECTION:waka-->
   
