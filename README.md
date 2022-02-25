@@ -37,10 +37,8 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.79 % 
-C++        1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░   31.95 % 
-C          19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Makefile   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown   1 hr 47 mins    ████████████████████▓░░░░   82.49 % 
+C++        22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 <!--END_SECTION:waka-->
   
