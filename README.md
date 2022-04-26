@@ -37,11 +37,11 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-C++        4 hrs 5 mins    ████████████████▓░░░░░░░░   66.88 % 
-Other      1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-C          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Bash       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+C++        4 hrs 30 mins   ████████████████▓░░░░░░░░   66.80 % 
+Other      1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Markdown   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+C          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Bash       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
   
