@@ -37,7 +37,9 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Git Config   8 mins          ███████████████▒░░░░░░░░░   61.45 % 
+Markdown     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.53 % 
+C++          2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 <!--END_SECTION:waka-->
   
