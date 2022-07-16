@@ -37,8 +37,8 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-C++     1 hr 1 min      ████████████████████████▒   97.84 % 
-C       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+C++     37 mins         ████████████████████████░   96.48 % 
+C       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 <!--END_SECTION:waka-->
   
