@@ -37,8 +37,8 @@ If you are also a programming enthusiast and feel confused about your own learni
 
 <!--START_SECTION:waka-->
 ```text
-C++        7 hrs 49 mins   ██████████████████████▓░░   91.32 % 
-C          40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+C++        7 hrs 46 mins   ██████████████████████▓░░   91.26 % 
+C          40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 Makefile   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
